@@ -50,5 +50,11 @@ Du ska ha en databas med olika fighters som en användare skall kunna välja bla
         name: 'That girl from Grudge',
         speciality: 'spook'
     },
-]```
+]
+```
+
+## Level ups:
+* Inloggning
+* Mer avancerad spellogik (AKA inte slumpa vinnare)
+* Lägga till nya karaktärer
 
