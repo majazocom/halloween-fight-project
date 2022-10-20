@@ -36,7 +36,7 @@ Du ska ha en databas med olika fighters som en användare skall kunna välja bla
     },
     {
         id: 5,
-        name: 'Your crazy nazi aunt',
+        name: 'Your crazy conservatist aunt',
         speciality: 'make people uncomfortable'
     },
     {
