@@ -14,8 +14,8 @@ Du ska ha en databas med olika fighters som en användare skall kunna välja bla
     },
     {
         id: 1,
-        name: 'A fast Frankenstein's monster',
-        speciality: 'like regular Frankenstein's monster, but fast. I mean, look at his chest, he has just finished a marathon.'
+        name: "A fast Frankenstein's monster",
+        speciality: "like regular Frankenstein's monster, but fast. I mean, look at his chest, he has just finished a marathon."
     },
     {
         id: 2,
