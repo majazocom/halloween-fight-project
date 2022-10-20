@@ -9,46 +9,46 @@ Du ska ha en databas med olika fighters som en användare skall kunna välja bla
 ```[
     {
         id: 0,
-        name: 'Smart and ripped monkey',
-        speciality: 'rip your face off'
+        name: 'Count Dracula',
+        speciality: 'sleep, spook, drink blood, repeat'
     },
     {
         id: 1,
-        name: 'Zombie snake',
-        speciality: 'bite'
+        name: 'A fast Frankenstein's monster',
+        speciality: 'like regular Frankenstein's monster, but fast. I mean, look at his chest, he has just finished a marathon.'
     },
     {
         id: 2,
-        name: 'Sociopathic ghost',
-        speciality: 'manipulate'
+        name: 'Ghost',
+        speciality: "rattle some chains"
     },
     {
         id: 3,
-        name: "A fast Frankenstein's monster",
-        speciality: "like regular Frankenstein's monster, but fast"
+        name: "Jason",
+        speciality: "what doesn't this psychopath do"
         }
     },
     {
         id: 4,
-        name: 'Count Dracula',
-        speciality: 'sleep, spook, drink blood, repeat'
+        name: 'Samara',
+        speciality: "she'll weird you out and disturb you everytime you watch tv"
         }
     },
     {
         id: 5,
-        name: 'Your crazy conservatist aunt',
-        speciality: 'make people uncomfortable'
+        name: 'Scarecrow',
+        speciality: "if you have trouble with crows on your crops - this is your man"
     },
     {
         id: 6,
-        name: 'A kid high on candy',
-        speciality: 'give headaches'
+        name: 'Troll',
+        speciality: "a gentle soul who wants to be your ally (read friend)"
         }
     },
     {
         id: 7,
-        name: 'That girl from The Ring',
-        speciality: 'spook'
+        name: 'Witch',
+        speciality: "she's mostly into animals and love potions"
     },
 ]
 ```
