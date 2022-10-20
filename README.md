@@ -6,7 +6,8 @@ Spara spelat spel i en collection. Förslagsvis 'matches'. Där spelare 1 och sp
 
 Du ska ha en databas med olika fighters som en användare skall kunna välja bland för sin laguppställning, förslagsvis i en collection som kan heta 'fighters'.
 
-```[
+```
+[
     {
         id: 0,
         name: 'Count Dracula',
