@@ -47,7 +47,7 @@ Du ska ha en databas med olika fighters som en användare skall kunna välja bla
     },
     {
         id: 7,
-        name: 'That girl from Grudge',
+        name: 'That girl from The Ring',
         speciality: 'spook'
     },
 ]
