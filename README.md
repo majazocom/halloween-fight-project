@@ -11,6 +11,7 @@ Du ska ha en databas med olika karaktärer som en användare skall kunna välja 
 * En db med spelade matcher
 * Kunna starta en match och välja lag
 * Spara spelad match i db
+* Se highscore
 * Användning av React och TypeScript i frontend
 * Användning av Node, express och firestore i backend
 
