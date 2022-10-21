@@ -4,15 +4,18 @@ Spelet går ut på att två motståndare skall välja mellan olika karaktärer a
 
 Spara spelat spel i en collection. Förslagsvis 'matches'. Där spelare 1 och spelare 2 skall vara med, vem som vann och hur laguppställningen såg ut.
 
-Du ska ha en databas med olika fighters som en användare skall kunna välja bland för sin laguppställning, förslagsvis i en collection som kan heta 'fighters'.
+Du ska ha en databas med olika karaktärer som en användare skall kunna välja bland för sin laguppställning, förslagsvis i en collection som kan heta 'fighters'.
 
 ## Sammanfattning
-* En db med fighters
+* En db med karaktärer
 * En db med spelade matcher
 * Kunna starta en match och välja lag
 * Spara spelad match i db
 * Användning av React och TypeScript i frontend
 * Användning av Node, express och firestore i backend
+
+
+## Förslag på karaktärer och JSON-data
 
 ```
 [
@@ -68,4 +71,3 @@ Du ska ha en databas med olika fighters som en användare skall kunna välja bla
 * Lägga till nya karaktärer
 * Deploya backend och frontend
 * Lägga till matcher i efterhand
-
