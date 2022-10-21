@@ -6,6 +6,14 @@ Spara spelat spel i en collection. Förslagsvis 'matches'. Där spelare 1 och sp
 
 Du ska ha en databas med olika fighters som en användare skall kunna välja bland för sin laguppställning, förslagsvis i en collection som kan heta 'fighters'.
 
+## Sammanfattning
+* En db med fighters
+* En db med spelade matcher
+* Kunna starta en match och välja lag
+* Spara spelad match i db
+* Användning av React och TypeScript i frontend
+* Användning av Node, express och firestore i backend
+
 ```
 [
     {
@@ -58,4 +66,6 @@ Du ska ha en databas med olika fighters som en användare skall kunna välja bla
 * Inloggning
 * Mer avancerad spellogik (AKA inte slumpa vinnare)
 * Lägga till nya karaktärer
+* Deploya backend och frontend
+* Lägga till matcher i efterhand
 
