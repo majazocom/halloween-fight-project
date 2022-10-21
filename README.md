@@ -1,3 +1,4 @@
+![Poster](halloweenposter.png)
 # halloween fight game
 
 Spelet går ut på att två motståndare skall välja mellan olika karaktärer att ha i sitt lag. När spelet startas skall en vinnare slumpas.
