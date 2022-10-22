@@ -1,7 +1,7 @@
 ![Poster](halloweenposter.png)
 # halloween fight game
 
-Spelet går ut på att två motståndare skall välja mellan olika karaktärer att ha i sitt lag. När spelet startas skall en vinnare slumpas.
+Spelet går ut på att två motståndare skall välja mellan olika karaktärer att ha i sitt lag (1-4). När spelet startas skall en vinnare slumpas.
 
 Spara spelat spel i en collection. Förslagsvis 'matches'. Där spelare 1 och spelare 2 skall vara med, vem som vann och hur laguppställningen såg ut.
 
