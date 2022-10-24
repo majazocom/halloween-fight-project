@@ -15,7 +15,7 @@ Du ska ha en databas med olika karaktärer som en användare skall kunna välja 
 * Se highscore
 * Filtrera bland spelade spel där en viss karaktär var med eller en viss spelare
 * Användning av React och TypeScript i frontend
-* Användning av Node, express och firestore i backend
+* Användning av Node, express och valfri db i backend
 
 
 ## Förslag på karaktärer och JSON-data
